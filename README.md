@@ -1,1 +1,3 @@
-#Mini-JAVA-Projects /n Playing with java
+# Mini-JAVA-Projects 
+
+Playing with java
